@@ -1,5 +1,7 @@
 # 💫 About Me:
-# Hello 👋, I'm Rafi Ahmed.<br><br>A software engineering aspirant, deeply passionate about coding and development.
+# Hello 👋, I'm Rafi Ahmed.
+
+A software engineering aspirant, deeply passionate about coding and development.
 
 
 ## 🌐 Socials:
